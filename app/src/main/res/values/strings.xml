@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">movie details</string>
+    <string name="button_submit">submit</string>
+</resources>
